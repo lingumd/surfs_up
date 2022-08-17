@@ -27,6 +27,13 @@ Gather more information for W.Avy about the temperature trends before he opens u
 
 
 ## Summary
-There were enough data points collected to get accurate results. The difference in average temperatures between June and December is 3.9°F. The difference in median temperatures is 4°F. The difference in maximum temperatures is 2°F. The difference in minimum temperatures is 8°F. So it is safe to say that the surf shop and ice cream shop would be sustainable year-round. Since the biggest difference in the minimum temperatures, I would want to find out more information about what time temperatures are the lowest in December to help determine shop hours. I would also want to look into precipitation more for June and December because precipitation may also affect customers going to surf shop and ice cream shop.
+There were enough data points collected to get accurate results. The difference in average temperatures between June and December is 3.9°F. The difference in median temperatures is 4°F. The difference in maximum temperatures is 2°F. The difference in minimum temperatures is 8°F. 
+
+The following histograms of the temperature data for June and December also show that the two months are very similar in temperature, with the histograms having similar centers and spreads of data. December's temperatures have a slightly wider spread due to lower temperatures being reached during that month.
+
 ![June_Temps_hist.png](./Images/June_Temps_hist.png)
 ![December_Temps_hist.png](./Images/December_Temps_hist.png)
+
+So it is safe to say that the surf shop and ice cream shop would be sustainable year-round. Since the biggest difference is in the minimum temperatures, more information about what time temperatures are the lowest in December would be help in determining shop hours. Precipitation may also be helpful to look into for June and December because precipitation may affect whether potential customers decide to go to the shop or not.
+
+
